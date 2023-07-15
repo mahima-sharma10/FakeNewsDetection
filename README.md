@@ -59,3 +59,11 @@ keywords = {Swahili, Fake news detection, Indonesian, low-resource languages, Hi
 1. Arkadipta De (M.Tech, IIT Hyderabad) [Corresponding Author] (Github - https://github.com/Arko98)
 2. Dibyanayan Bandyopadhyay (M.Tech, IIT Patna) (Github - https://github.com/newcodevelop)
 3. Baban Gain (M.Tech, IIT Patna) (Github - https://github.com/babangain)
+
+Credits - https://github.com/Arko98/TALLIP-FakeNews-Dataset
+
+#Due to large size, I am adding my ISOT dataset link and description below:
+
+https://onlineacademiccommunity.uvic.ca/isot/2022/11/27/fake-news-detection-datasets/
+
+The ISOT Fake News dataset is a compilation of several thousands fake news and truthful articles, obtained from different legitimate news sites and sites flagged as unreliable by Politifact.com.
