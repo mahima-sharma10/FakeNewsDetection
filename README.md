@@ -3,19 +3,19 @@ Hi, this is my major research area during my Masters in Computer Science - Data 
 
 Adding the multilingual dataset link below
 
-#TALLIP-FakeNews-Dataset
+# TALLIP-FakeNews-Dataset
 
 Multilingual Fake News Dataset created for the research paper "A Transformer Based Approach to Multilingual Fake News Detection in Low Resource Languages" accepted at the ACM Transactions on Asian and Low-Resource Language Information Processing (ACM TALLIP)
 
-#Information
+Information
 
 This Dataset is associated with the Research Work titled "A Transformer Based Approach to Multilingual Fake News Detection" published in ACM Transaction on Asian and Low-Resource Language Information Processing (ACM-TALLIP) Journal by Arkadipta De, Dibyanayan Bandyopadhyay, Baban Gain and Asif Ekbal in a joint research work from IIT Hyderabad and IIT Patna.
 
-#Dataset Link
+Dataset Link
 
 The dataset is available in the link: http://www.iitp.ac.in/~ai-nlp-ml/resources/data/TALLIP-FakeNews-Dataset.zip
 
-#Research Paper Link
+Research Paper Link
 
 The paper can be found at: https://dl.acm.org/doi/abs/10.1145/3472619
 
@@ -29,7 +29,7 @@ The paper can be found at: https://dl.acm.org/doi/abs/10.1145/3472619
 6. Multilingual Version of Dataset (Train and Test) Each Dataset has Six different domains (Technology, Bussiness, Education, Politics, Celebrity News, Entertainment)
 
 
-#Note:
+Note:
 
 1. The English Version of the dataset has been collected, cleaned and processed from the research paper "Automatic Detection of Fake News" by Verónica Pérez-Rosas, Bennett Kleinberg, Alexandra Lefevre, Rada Mihalcea published Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018). The Paper URL: https://www.aclweb.org/anthology/C18-1287. If you use only the English version of the dataset then please cite the paper given in the URL.
 2. The extension of the dataset has been done by the authors of this paper. If you use this dataset in any research work, please cite the paper.
@@ -54,7 +54,7 @@ numpages = {20},
 keywords = {Swahili, Fake news detection, Indonesian, low-resource languages, Hindi, Vietnamese, multilingual}
 }
 
-#Authors:
+Authors:
 
 1. Arkadipta De (M.Tech, IIT Hyderabad) [Corresponding Author] (Github - https://github.com/Arko98)
 2. Dibyanayan Bandyopadhyay (M.Tech, IIT Patna) (Github - https://github.com/newcodevelop)
@@ -62,7 +62,8 @@ keywords = {Swahili, Fake news detection, Indonesian, low-resource languages, Hi
 
 Credits - https://github.com/Arko98/TALLIP-FakeNews-Dataset
 
-#Due to large size, I am adding my ISOT dataset link and description below:
+# ISOT dataset
+Due to large size, I am adding my ISOT dataset link and description below:
 
 https://onlineacademiccommunity.uvic.ca/isot/2022/11/27/fake-news-detection-datasets/
 
