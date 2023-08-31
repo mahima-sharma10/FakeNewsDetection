@@ -1,7 +1,14 @@
 # FakeNewsDetection
 Hi, this is my major research area during my Masters in Computer Science - Data Analytics
 
-Adding the multilingual dataset link below
+Adding the ISOT dataset and multilingual dataset link below
+
+# ISOT dataset
+Due to large size, I am adding my ISOT dataset link and description below:
+
+https://onlineacademiccommunity.uvic.ca/isot/2022/11/27/fake-news-detection-datasets/
+
+The ISOT Fake News dataset is a compilation of several thousands fake news and truthful articles, obtained from different legitimate news sites and sites flagged as unreliable by Politifact.com.
 
 # TALLIP-FakeNews-Dataset
 
@@ -60,11 +67,4 @@ Authors:
 2. Dibyanayan Bandyopadhyay (M.Tech, IIT Patna) (Github - https://github.com/newcodevelop)
 3. Baban Gain (M.Tech, IIT Patna) (Github - https://github.com/babangain)
 
-Credits - https://github.com/Arko98/TALLIP-FakeNews-Dataset
-
-# ISOT dataset
-Due to large size, I am adding my ISOT dataset link and description below:
-
-https://onlineacademiccommunity.uvic.ca/isot/2022/11/27/fake-news-detection-datasets/
-
-The ISOT Fake News dataset is a compilation of several thousands fake news and truthful articles, obtained from different legitimate news sites and sites flagged as unreliable by Politifact.com.
+References - https://github.com/Arko98/TALLIP-FakeNews-Dataset
